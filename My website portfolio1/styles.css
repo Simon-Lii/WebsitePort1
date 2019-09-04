@@ -1,0 +1,117 @@
+li {
+    font-family: 'Courier', monospace;
+    font-weight: 0;
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px 60px 0px 0px;
+
+}
+
+header {
+    background: rgb(31, 31, 31);
+    color:white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    opacity: 0.98;
+
+}
+
+footer {
+    background: rgb(31, 31, 31);
+    color:white;
+    display: flex;
+    height: 44px;
+    opacity: 0.98;
+    margin-top: 65px;
+
+}
+
+.footer {
+    position: relative;
+    bottom: 100%;
+    font-family: 'Courier', monospace;
+    font-weight: 0;
+    font-size: 0px;
+    position: relative;
+    bottom: -1%;
+    left: -0.5%;
+        
+}
+
+.link-logo {
+    text-indent: px;
+    background-image: url(/images/LI-In-Bug.png);
+    background-size: 22px;
+    background-repeat: no-repeat;
+    width: 20px;
+    position: relative;
+    left: -7%;
+    filter: brightness(1);
+}
+.hide1 {
+    color: transparent;
+}
+
+.github-logo {
+    text-indent: px;
+    background-image: url(/images/GitHub-Mark-64px.png);
+    background-size: 18px;
+    background-repeat: no-repeat;
+    width: 30px;
+    position: relative;
+    left: -15%;
+    filter: brightness(8);
+    
+}
+.hide2 {
+    color: transparent;
+}
+
+.fb-logo {
+    text-indent: px;
+    background-image: url(/images/fb.png);
+    background-size: 18px;
+    background-repeat: no-repeat;
+    width: 32px;
+    position: relative;
+    left: -25%;
+    filter: brightness(1);
+    
+}
+.hide3 {
+    color: transparent;
+}
+
+.inst-logo {
+    text-indent: px;
+    background-image: url(/images/Instagram_AppIcon_Aug2017.png);
+    background-size: 19px;
+    background-repeat: no-repeat;
+    width: 30px;
+    position: relative;
+    left: -35%;
+    filter: brightness(1);
+    
+}
+.hide4 {
+    color: transparent;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+a:hover, button:hover {
+    text-decoration: underline;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+

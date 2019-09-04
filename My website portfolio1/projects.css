@@ -1,0 +1,104 @@
+#body {
+    background-image: url("images/bridge_loneliness_art_129333_1600x900.jpg");
+    width: 1920px;
+    position: absolute;
+    background-repeat: repeat;
+}
+
+.project-container {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.powermod {
+    background-image: url(images/powermod.PNG);
+    width: 250px;
+    height: 250px;
+    background-size: 250px;
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+.hangman {
+    background-color:blue;
+    width: 250px;
+    height: 250px;
+}
+
+.workout {
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    margin-left: 50%;
+    margin-top: -100%;
+}
+
+.chess {
+    background-color:yellow;
+    width: 250px;
+    height: 250px;
+    margin-left: 50%;
+}
+
+.container1 {
+    width: 1000px;
+    height: 100px;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.vert1 {
+    background-color: white;
+    width: 2px;
+    height: 50px;
+    opacity: 0.9;
+    position: relative;
+    left: 27.5%;
+
+}
+
+.horz1 {
+    background-color: white;
+    width: 275px;
+    height: 2px;
+    opacity: 0.9;
+    position: relative;
+    bottom: 27%;
+}
+
+.vert2 {
+    background-color: white;
+    width: 2px;
+    height: 50px;
+    opacity: 0.9;
+    position: relative;
+    left: 72.5%;
+    bottom: 51%;
+}
+
+.horz2 {
+    background-color: white;
+    width: 275px;
+    height: 2px;
+    opacity: 0.9;
+    position: relative;
+    bottom: 79%;
+    left: 72.7%;
+}
+
+.container2 {
+    opacity: 0.9;
+    width: 400px;
+    height: 100px;
+    margin: auto;
+    margin-top: -108px;
+    margin-left: 790px;
+    font-size: 14px;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    font-weight: 1;
+    letter-spacing: 2px;
+}
